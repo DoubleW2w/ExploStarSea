@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as s,a as o}from"./app-2281777a.js";const c={},n=o("p",null,"早餐必吃，午餐吃饱，晚餐少吃且不吃主食。",-1),_=[n];function r(a,l){return t(),s("div",null,_)}const m=e(c,[["render",r],["__file","Fitness.html.vue"]]);export{m as default};
