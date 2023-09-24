@@ -9,11 +9,11 @@ const MR_HOPE_AVATAR =
 const __dirname = getDirname(import.meta.url);
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  hostname: "https://doublew2w.top",
 
   author: {
     name: "DoubleW2w",
-    url: "https://mister-hope.com",
+    url: "https://doublew2w.top",
   },
 
   iconAssets: "iconfont",
